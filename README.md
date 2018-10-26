@@ -14,4 +14,11 @@ k=5:
 
 |VAE with variance reduction   | VAE without variance reduction |IWAE with variance reduction   | IWAE without variance reduction |
 | ------------- | ------------- |------------- | ------------- |
-|  |  |  89.98| 90.4  |
+|  | 91.62 |  89.98| 90.4  |
+
+
+Reference:
+
+[1] Roeder, Geoffrey, Yuhuai Wu, and David K. Duvenaud. "Sticking the landing: Simple, lower-variance gradient estimators for variational inference." Advances in Neural Information Processing Systems. 2017.
+
+[2]Burda, Yuri, Roger Grosse, and Ruslan Salakhutdinov. "Importance weighted autoencoders." arXiv preprint arXiv:1509.00519 (2015).
