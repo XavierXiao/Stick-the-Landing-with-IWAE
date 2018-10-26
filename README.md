@@ -14,7 +14,7 @@ k=5:
 
 |VAE with variance reduction   | VAE without variance reduction |IWAE with variance reduction   | IWAE without variance reduction |
 | ------------- | ------------- |------------- | ------------- |
-|  | 91.62 |  89.98| 90.4  |
+| 91.62 | 91.96 |  89.98| 90.4  |
 
 
 Reference:
